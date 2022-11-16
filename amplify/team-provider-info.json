@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-firefoxdouble-dev-155640-authRole",
+      "UnauthRoleArn": "arn:aws:iam::296215747775:role/amplify-firefoxdouble-dev-155640-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::296215747775:role/amplify-firefoxdouble-dev-155640-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-firefoxdouble-dev-155640-deployment",
+      "UnauthRoleName": "amplify-firefoxdouble-dev-155640-unauthRole",
+      "StackName": "amplify-firefoxdouble-dev-155640",
+      "StackId": "arn:aws:cloudformation:us-east-1:296215747775:stack/amplify-firefoxdouble-dev-155640/85978110-595e-11ed-b3f2-125e04dfe4e5",
+      "AmplifyAppId": "d3hd2k8f6v9uf6"
+    },
+    "categories": {
+      "auth": {
+        "firefoxdoubledf1d1870": {}
+      }
+    }
+  }
+}
